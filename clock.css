@@ -1,0 +1,34 @@
+#body{
+    background-color: black;/*url(https://wallpaperaccess.com/full/123346.jpg);*/
+    width: 100%;
+    height: 100%;
+    
+}
+
+#currently{
+    font-family: 'Akshar', sans-serif;
+    font-weight: normal;
+    position: relative;
+    top:260px;
+    left:500px;
+    font-size: 35px;
+    color: white;
+}
+
+#location{
+    font-family: 'Akshar', sans-serif;
+    position: relative;
+    top:380px;
+    left:500px;
+    font-size: 35px;
+    color: white;
+}
+
+#container{
+    font-family: 'Akshar', sans-serif;
+    font-size: 75px;
+    position: relative;
+    top:150px;
+    left:500px;
+    color: white;
+}
